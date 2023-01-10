@@ -1,6 +1,5 @@
 import { Button } from 'antd';
 import { useEffect, useMemo, useState } from 'react';
-import './App.css';
 
 import soundfile from './assert/Betelgeuse.mp3';
 function App() {
