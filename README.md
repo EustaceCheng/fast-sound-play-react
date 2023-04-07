@@ -1,5 +1,7 @@
 # fast sound play react
-
+<Layout>
+  <Component />
+</Layout>
 
 ### Getting Started
 ```
